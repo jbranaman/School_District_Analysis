@@ -31,15 +31,10 @@ This report presents an updated analysis of high-level snapshot of the district'
 <img width="1114" alt="Updated Top 5 Schools" src="https://user-images.githubusercontent.com/96451672/151670763-6bf4457f-23b3-4e06-8667-9a96619878e5.png">
 
 * How does replacing the ninth-grade scores affect the following:
-  * Math and reading scores by grade
-   * The average math and reading scores by grade are impacted only for ninth grade scores of Thomas High School. They instead show NaN versus the original average scores.
-#### Original Average 9th Grade Math and Reading Scores
-<img width="1107" alt="Module Average 9th Grade Math Scores" src="https://user-images.githubusercontent.com/96451672/151671472-5f2bad61-ff52-4cdd-b4dd-159d03a5211f.png"> <img width="1106" alt="Module Average 9th Grade Reading Scores" src="https://user-images.githubusercontent.com/96451672/151671483-44d750fe-9694-4831-a015-cb930921b78e.png">
+  * Math and reading scores by grade: The average math and reading scores by grade are impacted only for ninth grade scores of Thomas High School. They instead show NaN versus the original average scores. The original average math score was 83.59 and the original average reading score was 83.72.
+  * Scores by school spending: The scores by school spending were impacted in the $630-644 per student range with the overall passing percentage adjusting originally from 63% to 56%.
+  * Scores by school size: The scores by school size were impacted in the medium (1000-2000) range with the overall passing percentage adjusting originally from 91% to 85%.
+  * Scores by school type: The scores by school type were impacted in the charter school type with the overall passing percentage adjusting originally from 90% to 87%.
 
-#### Updated Average 9th Grade Math and Reading Scores
-<img width="1113" alt="Updated Average 9th Grade Math Scores" src="https://user-images.githubusercontent.com/96451672/151671505-79ef5466-3a3e-472b-b2a1-15e5a4791f07.png"> <img width="1108" alt="Updated Average 9th Grade Reading Scores" src="https://user-images.githubusercontent.com/96451672/151671510-99b38c36-83dd-409a-b78f-4e3aea855515.png">
-
-
-  * Scores by school spending
-  * Scores by school size
-  * Scores by school type
+## Summary
+Replacing the ninth grade math and reading scores for Thomas High School affected performance in a variety of different areas. The overall performance of the district was impacted slightly dropping the overall passing percentage by .3%. The school summary was greatly impacted by showing Thomas High School overall passing percentage dropping by 25.87%. The performance for Thomas High School relative to other schools dropped greatly where originally they were a top 5 school but instead adjusted to being a school in the lower half. This ultimately impacted all the additional metric groupings of scores by spending, size and type dropping overall passing percentages between 3-6%.
