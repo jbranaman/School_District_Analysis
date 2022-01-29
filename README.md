@@ -32,6 +32,12 @@ This report presents an updated analysis of high-level snapshot of the district'
 
 * How does replacing the ninth-grade scores affect the following:
   * Math and reading scores by grade
+   * The average math and reading scores by grade are impacted only for ninth grade scores of Thomas High School. They instead show NaN versus the original average scores.
+#### Original Average 9th Grade Math and Reading Scores
+
+
+#### Updated Average 9th Grade Math and Reading Scores
+
   * Scores by school spending
   * Scores by school size
   * Scores by school type
