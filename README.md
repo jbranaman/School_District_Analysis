@@ -34,9 +34,11 @@ This report presents an updated analysis of high-level snapshot of the district'
   * Math and reading scores by grade
    * The average math and reading scores by grade are impacted only for ninth grade scores of Thomas High School. They instead show NaN versus the original average scores.
 #### Original Average 9th Grade Math and Reading Scores
-
+<img width="1107" alt="Module Average 9th Grade Math Scores" src="https://user-images.githubusercontent.com/96451672/151671472-5f2bad61-ff52-4cdd-b4dd-159d03a5211f.png"> <img width="1106" alt="Module Average 9th Grade Reading Scores" src="https://user-images.githubusercontent.com/96451672/151671483-44d750fe-9694-4831-a015-cb930921b78e.png">
 
 #### Updated Average 9th Grade Math and Reading Scores
+<img width="1113" alt="Updated Average 9th Grade Math Scores" src="https://user-images.githubusercontent.com/96451672/151671505-79ef5466-3a3e-472b-b2a1-15e5a4791f07.png"> <img width="1108" alt="Updated Average 9th Grade Reading Scores" src="https://user-images.githubusercontent.com/96451672/151671510-99b38c36-83dd-409a-b78f-4e3aea855515.png">
+
 
   * Scores by school spending
   * Scores by school size
